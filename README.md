@@ -1,2 +1,2 @@
-# whatapp-share
-Trying out sharing stuff from web to whatapp with web `whatapp://`
+# whatsapp-share
+Trying out sharing stuff from web to Whatsapp with web `whatsapp://`
